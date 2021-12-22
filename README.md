@@ -5,7 +5,7 @@
 <p>1: <a href="https://www.cheatengine.org/">Cheat Engine</a> (I usually call it CE)</p>
 <p>2: <a href="https://deltarune.com/">Deltarune</a></p>
 <h1>Key</h1>
-<h3>One run = Me playing for ~60-~200 minutes, and waiting a day before the second run.</h3>
+<h3>One run = Me playing for ~60-~200 minutes, and waiting a day before the next run.</h3>
 <h1>Tips on using CE with Deltarune:</h1>
 <p>Always search using the scan type "Double". If you can not find the variable when you search with Double, check again, and then search for "All".</p>
 <p>For your first search on charatcer stats, you should search from 0000000000000000 to 0000f77777777777 (easiest way to remember is 16 0's and 11 7's), but when you figure out where at least 2 of your character stats are stored, you should search from at least 1 letter <b>before</b> the second character, with zeroes at the end of the number, and for the end, at least 1 letter <b>above</b> the second character, with zeroes at the end. An example is shown below:</p>
