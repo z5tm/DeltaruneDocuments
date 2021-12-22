@@ -1,5 +1,9 @@
 # DeltaruneDocuments
 <h1><i>NOTE: This is only for chapter 1. Chapter 2 documents will be in "DeltaruneDocuments2", when I make that.</i></h1>
+<h1>Links</h1>
+<p>Before you start reading, you will need these two things if you wish to do any of this.</p>
+<p>1: <a href="https://www.cheatengine.org/">Cheat Engine</a> (I usually call it CE)</p>
+<p>2: <a href="https://deltarune.com/" Deltarune</a>
 <h1>Key</h1>
 <h3>One run = Me playing for ~60-~200 minutes, and waiting a day before the second run.</h3>
 <h1>Tips on using CE with Deltarune:</h1>
