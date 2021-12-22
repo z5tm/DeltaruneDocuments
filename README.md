@@ -95,7 +95,7 @@
 <p>3: 0E3054F0</p>
   <h1>CE Layout</h1>
 <h5><i><b>TIP: If you restart the game, you may have to redo every single one of these. Sometimes, it's better to keep it simple.</b></i></h5>
-<p>Here the layout I use when I'm playing Deltarune with Cheat Engine. If anything has a '()' around it, it is a address. If it does not, it is a group.</p>
+<p>Here the layout I use when I'm playing Deltarune with Cheat Engine. If anything has a '()' around it, it is a address. If it does not, it is a group.<b>It is also available for <a href=https://github.com/z5tm/DeltaruneDocuments/releases/latest>download<a>.</b></p>
 
 -----------------------------------------
 
