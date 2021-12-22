@@ -3,7 +3,7 @@
 <h1>Links</h1>
 <p>Before you start reading, you will need these two things if you wish to do any of this.</p>
 <p>1: <a href="https://www.cheatengine.org/">Cheat Engine</a> (I usually call it CE)</p>
-<p>2: <a href="https://deltarune.com/" Deltarune</a></p>
+<p>2: <a href="https://deltarune.com/">Deltarune</a></p>
 <h1>Key</h1>
 <h3>One run = Me playing for ~60-~200 minutes, and waiting a day before the second run.</h3>
 <h1>Tips on using CE with Deltarune:</h1>
