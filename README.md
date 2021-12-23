@@ -1,14 +1,14 @@
 # DeltaruneDocuments
-<h1><i>NOTE: This is only for chapter 1. Chapter 2 documents will be in "DeltaruneDocuments2", when I make that.</i></h1>
+<h1><i>NOTE: This is only for chapter 1.</i></h1>
 <h1>Links</h1>
 <p>Before you start reading, you will need these two things if you wish to do any of this.</p>
 <p>1: <a href="https://www.cheatengine.org/">Cheat Engine</a> (I usually call it CE)</p>
 <p>2: <a href="https://deltarune.com/">Deltarune</a></p>
 <h1>Key</h1>
-<h3>One run = Me playing for ~60-~200 minutes, and waiting a day before the next run.</h3>
+<h3>One run = Me playing for 200+ minutes, and waiting ~a day before the next run.</h3>
 <h1>Tips on using CE with Deltarune:</h1>
 <p>Always search using the scan type "Double". If you can not find the variable when you search with Double, check again, and then search for "All".</p>
-<p>For your first search on charatcer stats, you should search from 0000000000000000 to 0000f77777777777 (easiest way to remember is 16 0's and 11 7's), but when you figure out where at least 2 of your character stats are stored, you should search from at least 1 letter <b>before</b> the second character, with zeroes at the end of the number, and for the end, at least 1 letter <b>above</b> the second character, with zeroes at the end. An example is shown below:</p>
+<p>For your first search on charatcer stats, you should search from 0000000000000000 to 0000f77777777777 (easiest way to remember is 16 0's and 11 7's), but when you figure out where at least 2 of your character stats are stored, you should search from at least 1 letter <b>before</b> the second character, with zeroes at the end of the number, and for the end, at least 1 letter <b>after</b> the second character, with zeroes at the end. An example is shown below:</p>
 <p>If my character stats were stored at 0E305D80 and 0E3055F0, I'd search from 0D300000 and 0F300000.</p>
 
   <h1>Ideas for this project:</h1>
@@ -42,20 +42,19 @@
 <p>12: *</p>
 <p>13: Only numbers show, decently sized numbers.</p>
 <p>14: Only numbers, in gold.</p>
-<p>15: Only numbers, smaller than 14, no gold.</p>
+<p>15: Only numbers, same as 14 but smaller and isn't in gold.</p>
 <p>16: Same as 13.</p>
 <p>17: Same as 15.</p>
 <p>18: *</p>
 <p>19+: Same as 18.</p>
- <h2>Selected on CMenu</h2>
-<p><h2>Selected on CMenu</h2></p>
+ <p><h2>Selected on CMenu</h2></p>
 <p><h4>This is basically which slot you have selected on the menu. What the value means (and how to find it) is here:</h4></p>
 <p>0: Item, the first one shown.</p>
 <p>1: Equip, the second one shown.</p>
 <p>2: Talk, not shown but maybe it'll be used later on.</p>
 <p>3: Power, third one shown.</p>
 <p>4: Config, fourth and last one shown.</p>
-<p>5+: If this is still here, I have not tested 5+ yet, and have forgotten. Please ask me to test this if you see this.</p>
+<p>5+: 5 restarts to 0, 6=1, 7=2, 8=3, etc.</p>
 <!----<p><h4>Here is where it was stored across runs:</h4></p>
 <p>Run 3: 0C29BE00---->
  <h2>First, Second, and Third Party Member</h2>
@@ -71,7 +70,7 @@
 
  <h2>Ralsei's Variables</h2>
 <h3>I'm only putting these down becuase everyone else's variables are stored similarly (if not exactly) like Ralsei's.</h3>
-<h3>Just like D$, I have set the variables HP & Max HP to be 23+ numbers long, and the game has not crashed for me.</h3>
+<h3>Just like D$, I have set all of these vairables (on all characters) to be 23+ numbers long, even infinite - and the game has not broke for me.</h3>
 <h4></i>(Numbers=Run#)</i></h4>
 <p>Ralsei's Maximum HP</p>
 <p>1: 0E2755B0</p>
@@ -95,7 +94,7 @@
 <p>3: 0E3054F0</p>
   <h1>CE Layout</h1>
 <h5><i><b>TIP: If you restart the game, you may have to redo every single one of these. Sometimes, it's better to keep it simple.</b></i></h5>
-<p>Here the layout I use when I'm playing Deltarune with Cheat Engine. If anything has a '()' around it, it is a address. If it does not, it is a group.<b>It is also available for <a href=https://github.com/z5tm/DeltaruneDocuments/releases/latest>download<a>.</b></p>
+<p>Here the layout I use when I'm playing Deltarune with Cheat Engine. If anything has a '()' around it, it is a address. If it does not, it is a group.<b> It is also available for <a href=https://github.com/z5tm/DeltaruneDocuments/releases/latest>download<a>.</b></p>
 
 -----------------------------------------
 
